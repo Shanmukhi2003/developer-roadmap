@@ -28,7 +28,7 @@ Random Access Memory (RAM) is where data is temporarily stored while the compute
 
 - Temporary storage for data while the computer is on.
 - More RAM allows for better multitasking.
-
+- stores data for quick access
 ## Storage (Hard Drives)
 
 Storage devices like hard disk drives (HDD) or solid-state drives (SSD) are used to store data permanently on the computer, even when the device is powered off. Operating systems, software, and user files are stored on these drives.
@@ -44,7 +44,7 @@ The GPU is responsible for rendering images, videos, and animations on the compu
 
 **Key Points:**
 
-- Handles and processes graphics and visuals.
+- Handles and processes graphics and visuals that show up on the monitor.
 - Important for gaming, video editing, and graphic design tasks.
 
 ## Power Supply Unit (PSU)
